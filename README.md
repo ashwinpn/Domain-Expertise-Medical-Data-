@@ -9,7 +9,7 @@ Deep Learning and AI Domain Expertise: Medical Data - EHR [Electronic Health Rec
 
 1] Reducing Medical Errors - Focus on <ins>model performance</ins> [how that translates to real world scenarios] rather than just model accuracy.
 
-2] In the US, the most common causes of death are - Heart disease, Cancer [Both account for >30% of the deaths in the states].
+2] In the US, the most common causes of death [non-accidental, non-natural, caused due to a disease] are - Heart disease, Cancer [Both account for >30% of the deaths in the states].
 
 3] Cancer cells burn sugar quite a lot [Thus, using this causal effect we can detect cancer cells by detecting parts of the body with high sugar depletion rate]. 
 
