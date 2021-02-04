@@ -2,6 +2,7 @@
 Deep Learning and AI Domain Expertise: Medical Data - EHR [Electronic Health Records], Genomes Sequencing, Neuroscience, Biomedical.
 
 # List of Research Papers
+- 1] Mitchell, M., Wu, S., Zaldivar, A., Barnes, P., Vasserman, L., Hutchinson, B., Spitzer, E., Raji, I.D. and Gebru, T., 2019, January. Model cards for model reporting. In Proceedings of the conference on fairness, accountability, and transparency (pp. 220-229). Link: https://arxiv.org/abs/1810.03993.
 
 # Deep Learning for Biomedical Data Course [Taught at NYU Langone]
 
